@@ -4,6 +4,8 @@ Hello,
 
 Here is the solution for the technical interview challenge for the software engineering position. I have completed up to **Step 2** of the project as per the instructions.
 
+**My interview code: j17-2025-01**
+
 ## Project Summary
 
 The application consists of a simple **Dashboard** with a sidebar for navigation and a content area. So far, I have implemented the following functionalities:
