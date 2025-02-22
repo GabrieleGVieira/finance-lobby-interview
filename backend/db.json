@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1234",
+    "title": "The Dog and the Cat",
+    "status": "In Stock",
+    "notes": "Pristine"
+  },
+  {
+    "id": "5678",
+    "title": "A Journey Through Time",
+    "status": "Out of Stock",
+    "notes": "Slight wear on cover"
+  },
+  {
+    "id": "9101",
+    "title": "Mysteries of the Universe",
+    "status": "In Stock",
+    "notes": "Brand new"
+  },
+  {
+    "id": "1121",
+    "title": "The Art of Coding",
+    "status": "Pending Restock",
+    "notes": "Limited availability"
+  }
+]
